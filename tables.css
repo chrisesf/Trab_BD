@@ -1,0 +1,14 @@
+table,
+th,
+td {
+    text-align: center;
+    border: 1px solid;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
